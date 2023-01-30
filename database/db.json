@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "firstName": "Nguyen",
+      "lastName": "Van E",
+      "studentCode": "20192024",
+      "id": 4
+    },
+    {
+      "firstName": "Nguyen",
+      "lastName": "Van J",
+      "studentCode": "20192026",
+      "id": 6
+    },
+    {
+      "firstName": "Nguyen",
+      "lastName": "Van A",
+      "studentCode": "20192029",
+      "id": 7
+    },
+    {
+      "firstName": "Nguyen",
+      "lastName": "Van E",
+      "studentCode": "20192023",
+      "id": 9
+    },
+    {
+      "firstName": "Pham Duc",
+      "lastName": "Trung",
+      "studentCode": "20192025",
+      "id": 10
+    }
+  ]
+}
